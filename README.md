@@ -53,6 +53,8 @@ Dans ce projet, j’ai principalement travaillé sur :
 
 **🚀 Améliorations possibles:**
 
+- Corriger l'erreur : SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+  
 - Retravailler sur le CSS en mode sombre (couleur de texte, couleur d'arrière-plan, page d'accueil...)
 
 - Margin entre les sections page d'accueil en mode sombre ? Voir refaire la page d'accueil en entier.
