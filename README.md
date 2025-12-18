@@ -1,37 +1,65 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Contexte
+Projet web fullstack réalisé en groupe (front-end & back-end séparés).
 
-## Getting Started
+Ce dépôt correspond à ma version fork personnelle, utilisée pour expliquer le projet, mon rôle et mes apprentissages.
 
-First, run the development server:
+**Ce fork contient :**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- des ajustements personnels
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- un README explicatif
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- des tests et améliorations réalisés après le projet de groupe
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+**🧩 Présentation globale**
 
-To learn more about Next.js, take a look at the following resources:
+Ce projet est une application web composée de deux parties :
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+un front-end (interface utilisateur)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+un back-end (API, logique métier, base de données)
 
-## Deploy on Vercel
+Les deux parties communiquent via des requêtes HTTP.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🔗 Front-end : [https://github.com/vanessa-vg/Adaopte_front]
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# Adaopte_front
+🔗 Back-end : [https://github.com/vanessa-vg/Adaopte_back]
+
+
+**👩🏻‍💻 Mon rôle dans le projet**
+
+Dans ce projet, j’ai principalement travaillé sur :
+
+- La base de donnée et la génération des cartes animaux
+
+- La responsivité du site
+
+- Formulaires à remplir en ligne
+
+
+**🖥️ Technologies utilisées:**
+
+- HTML
+
+- CSS
+
+- JavaScript
+
+- Next
+
+
+**🚀 Améliorations possibles:**
+
+- Retravailler sur le CSS en mode sombre (couleur de texte, couleur d'arrière-plan, page d'accueil...)
+
+- Margin entre les sections page d'accueil en mode sombre ? Voir refaire la page d'accueil en entier.
+
+- Dans le Guide de l'adoption, redimensionner les 4 blocs du processus d'adoption (2 et 2 côte à côte)
+
+- Revoir le design du site entier
+
+
+
+
+
