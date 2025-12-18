@@ -14,7 +14,9 @@ Ce dépôt correspond à ma version fork personnelle, utilisée pour expliquer l
 
 **🧩 Présentation globale**
 
-Ce projet est une application web composée de deux parties :
+Adaopte est un site d'adoption, type SPA, où les utilisateurs peuvent découvrir les nombreux compagnons à adopter, en fonction du type d'animal souhaité  et /ou bien de la localisation. Ils ont également la possibilité de remplir un formulaire en ligne afin d'initier une démarche d'adoption, de devenir bénévole ou bien de faire un don à l'association. A travers ce site, les futurs adoptants peuvent également obtenir des renseignements sur le processus d'adoption.
+
+**Ce projet est une application web composée de deux parties :**
 
 un front-end (interface utilisateur)
 
