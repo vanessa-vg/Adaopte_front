@@ -54,6 +54,8 @@ Dans ce projet, j’ai principalement travaillé sur :
 **🚀 Améliorations possibles:**
 
 - Corriger l'erreur : SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+
+- Recadrer les images des animaux dans leur carte profil sur page J'adopte
   
 - Retravailler sur le CSS en mode sombre (couleur de texte, couleur d'arrière-plan, page d'accueil...)
 
